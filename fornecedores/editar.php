@@ -9,7 +9,6 @@
 <html lang="en">
 <head>
   <title>Marcas</title>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -26,7 +25,7 @@
 <div class="container mt-3">
   <div class="titleContainer" >
     <div>
-      <h2>Nova marca</h2>
+      <h2>Nova Marca</h2>
       <p>Cadastre uma nova marca:</p>    
     </div>
     <div>
